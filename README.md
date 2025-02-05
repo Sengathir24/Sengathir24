@@ -33,7 +33,7 @@ Worked with:
 ## My Stats
 
 #### GitHub Stats
-[![Sengathirsoorian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sengathirsooriann&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Sengathirsoorian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sengathirsoorian&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Languages I've Worked With
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sengathirsoorian&theme=aura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
