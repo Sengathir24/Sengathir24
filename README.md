@@ -1,23 +1,54 @@
-<h1 align="center">Hi 👋, I'm Sengathirsoorian</h1>
-<h3 align="center">An Enthusiastic student from PSG COLLEGE OF TECHNOLOGY,COIMBATORE.</h3>
+# Welcome to my GitHub!!!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sengathir24&label=Profile%20views&color=0e75b6&style=flat" alt="Sengathir24" /> </p>
+### Hi there! 👋
+I am Sengathirsoorian, an aspiring developer passionate about **Web Development**, **AI/ML**, and **Smart Technologies**. Currently, I am focused on enhancing my skills through hands-on projects, hackathons, and real-world applications. 🚀
 
-- 🌱 I’m currently learning **Web Development & Data science**
+## About Me
+<div style="background: rgba( 255, 255, 255, 0.25 ); box-shadow: 0 4px 30px rgba( 0, 0, 0, 0.1 ); backdrop-filter: blur( 5px ); -webkit-backdrop-filter: blur( 5px ); border: 1px solid rgba( 255, 255, 255, 0.18 ); padding: 20px; border-radius: 10px;">
+- 🔧 Currently working on a **React App** with a dynamic four-tab layout: **Orders**, **Emails**, **Responses**, and **Chat**.
+- 🌱 Interests include **Data Science**, **Machine Learning**, **Road Safety Analytics**, and **Smart Systems**.
+- 👯 Looking to collaborate on **Open-Source Projects** and innovative tech solutions.
+- 📫 Reach me at [Contact](#contact).
+</div>
 
-- 📫 How to reach me **sengathirsoorian@gmail.com**
+## Skills and Experience
+Worked with:
 
-<h3 align="left">Let's connect:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sengathir-soorian-elangovan-8932161b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sengathirsoorian E T" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Sengathir24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## My Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sengathir24&show_icons=true&locale=en&layout=compact" alt="Sengathir24" /></p>
+#### GitHub Stats
+[![Sengathirsoorian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sengathirsoorian&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sengathir24&show_icons=true&locale=en" alt="Sengathir24" /></p>
+#### Languages I've Worked With
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sengathirsoorian&theme=aura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sengathir24&" alt="Sengathir24" /></p> 
+#### GitHub Profile Insights
+![](https://komarev.com/ghpvc/?username=sengathirsoorian&style=plastic)
+
+#### Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=sengathirsoorian&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Contact
+<a href="https://linkedin.com/in/sengathirsoorian">
+  <img align="left" alt="LinkedIn" width="50-px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+</a>
+<a href="mailto:sengathirsoorian@example.com">
+  <img align="left" alt="GMail" width="60-px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+</a>
+
+---
+
+<a href="http://commonmark.org">
+  <img align="right" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" />
+</a>
