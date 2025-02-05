@@ -33,19 +33,19 @@ Worked with:
 ## My Stats
 
 #### GitHub Stats
-[![Sengathirsoorian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sengathir24n&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Sengathirsoorian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sengathirsooriann&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Languages I've Worked With
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sengathir24&theme=aura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sengathirsoorian&theme=aura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### GitHub Profile Insights
-![](https://komarev.com/ghpvc/?username=Sengathir24&style=plastic)
+![](https://komarev.com/ghpvc/?username=Sengathirsoorian&style=plastic)
 
 #### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sengathir24&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sengathirsoorian&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contact
-<a href="https://linkedin.com/in/sengathirsoorian">
+<a href="[https://linkedin.com/in/sengathirsoorian](https://www.linkedin.com/in/sengathir-soorian-elangovan-8932161b4/)">
   <img align="left" alt="LinkedIn" width="50-px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <a href="mailto:sengathirsoorian@example.com">
