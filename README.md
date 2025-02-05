@@ -4,11 +4,9 @@
 I am Sengathirsoorian, an aspiring developer passionate about **Web Development**, **AI/ML**, and **Smart Technologies**. Currently, I am focused on enhancing my skills through hands-on projects, hackathons, and real-world applications. 🚀
 
 ## About Me
-<div style="background: rgba( 255, 255, 255, 0.25 ); box-shadow: 0 4px 30px rgba( 0, 0, 0, 0.1 ); backdrop-filter: blur( 5px ); -webkit-backdrop-filter: blur( 5px ); border: 1px solid rgba( 255, 255, 255, 0.18 ); padding: 20px; border-radius: 10px;">
-- 🔧 Currently working on a **React App** with a dynamic four-tab layout: **Orders**, **Emails**, **Responses**, and **Chat**.
-- 🌱 Interests include **Data Science**, **Machine Learning**, **Road Safety Analytics**, and **Smart Systems**.
+- 🌱 Interests include Data Science, Machine Learning, Road Safety Analytics, and Smart Systems.
 - 👯 Looking to collaborate on **Open-Source Projects** and innovative tech solutions.
-- 📫 Reach me at [Contact](#contact).
+- 📫 Reach me at sengathirsoorian@gmail.com
 </div>
 
 ## Skills and Experience
@@ -16,7 +14,13 @@ Worked with:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=plastic&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
@@ -24,20 +28,21 @@ Worked with:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/apache_netbeans-1B6AC6.svg?style=plastic&logo=apache-netbeans-ide&logoColor=white)
 
 ## My Stats
 
 #### GitHub Stats
-[![Sengathirsoorian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sengathirsoorian&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Sengathirsoorian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sengathir24n&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Languages I've Worked With
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sengathirsoorian&theme=aura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sengathir24&theme=aura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### GitHub Profile Insights
-![](https://komarev.com/ghpvc/?username=sengathirsoorian&style=plastic)
+![](https://komarev.com/ghpvc/?username=Sengathir24&style=plastic)
 
 #### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=sengathirsoorian&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sengathir24&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contact
 <a href="https://linkedin.com/in/sengathirsoorian">
