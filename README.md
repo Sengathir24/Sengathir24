@@ -39,7 +39,11 @@ Worked with:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-T&theme=aura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### GitHub Profile Insights
-(https://komarev.com/ghpvc/?username=Kavin-T&style=plastic)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavin-t&label=Profile%20views&color=0e75b6&style=flat" alt="kavin-t" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sengathir24&show_icons=true&locale=en&layout=compact" alt="Sengathir24" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sengathir24&show_icons=true&locale=en" alt="Sengathir24" /></p>
 
 #### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kavin-T&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
