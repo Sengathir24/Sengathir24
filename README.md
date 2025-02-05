@@ -42,14 +42,15 @@ Worked with:
 #### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=sengathirsoorian&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Contact
-<a href="[https://linkedin.com/in/sengathirsoorian](https://www.linkedin.com/in/sengathir-soorian-elangovan-8932161b4/)">
+## Contact  
+<a href="href="https://www.linkedin.com/in/sengathir-soorian-elangovan-8932161b4/"">
   <img align="left" alt="LinkedIn" width="50-px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <a href="mailto:sengathirsoorian@gmail.com">
   <img align="left" alt="GMail" width="60-px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 
+<a href="https://www.leetcode.com/Sengathir24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
 ---
 
 <a href="http://commonmark.org">
