@@ -39,16 +39,16 @@ Worked with:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-T&theme=aura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### GitHub Profile Insights
-![](https://komarev.com/ghpvc/?username=Kavin-T&style=plastic)
+(https://komarev.com/ghpvc/?username=Kavin-T&style=plastic)
 
 #### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=sengathirsoorian&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kavin-T&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contact
 <a href="[https://linkedin.com/in/sengathirsoorian](https://www.linkedin.com/in/sengathir-soorian-elangovan-8932161b4/)">
   <img align="left" alt="LinkedIn" width="50-px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
-<a href="mailto:sengathirsoorian@example.com">
+<a href="mailto:sengathirsoorian@gmail.com">
   <img align="left" alt="GMail" width="60-px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 
