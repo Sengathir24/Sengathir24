@@ -32,12 +32,6 @@ Worked with:
 
 ## My Stats
 
-#### GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavin-T&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Languages I've Worked With
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-T&theme=aura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 #### GitHub Profile Insights
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavin-t&label=Profile%20views&color=0e75b6&style=flat" alt="kavin-t" /> </p>
 
@@ -46,7 +40,7 @@ Worked with:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sengathir24&show_icons=true&locale=en" alt="Sengathir24" /></p>
 
 #### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kavin-T&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sengathirsoorian&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contact
 <a href="[https://linkedin.com/in/sengathirsoorian](https://www.linkedin.com/in/sengathir-soorian-elangovan-8932161b4/)">
