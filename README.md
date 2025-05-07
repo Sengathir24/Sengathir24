@@ -40,7 +40,7 @@ Worked with:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sengathir24&show_icons=true&locale=en" alt="Sengathir24" /></p>
 
 #### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sengathir24&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kavin-T&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contact  
 
