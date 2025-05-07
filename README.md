@@ -33,7 +33,7 @@ Worked with:
 ## My Stats
 
 #### GitHub Profile Insights
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavin-t&label=Profile%20views&color=0e75b6&style=flat" alt="kavin-t" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sengathir24&label=Profile%20views&color=0e75b6&style=flat" alt="kavin-t" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sengathir24&show_icons=true&locale=en&layout=compact" alt="Sengathir24" /></p>
 
