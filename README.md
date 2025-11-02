@@ -1,60 +1,107 @@
-# Welcome to my GitHub!!!
+<!-- Profile Header -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#4e9af1;">Sengathirsoorian E T</span></h1>
 
-### Hi there! 👋
-I am Sengathirsoorian, an aspiring developer passionate about **Web Development**, **AI/ML**, and **Smart Technologies**. Currently, I am focused on enhancing my skills through hands-on projects, hackathons, and real-world applications. 🚀
+<h3 align="center">🚀 Aspiring Developer | Web & AI Enthusiast | Smart Systems Innovator</h3>
 
-## About Me
-- 🌱 Interests include Data Science, Machine Learning, Road Safety Analytics, and Smart Systems.
-- 👯 Looking to collaborate on **Open-Source Projects** and innovative tech solutions.
-- 📫 Reach me at sengathirsoorian@gmail.com
-</div>
-
-## Skills and Experience
-Worked with:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=plastic&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![Apache NetBeans](https://img.shields.io/badge/apache_netbeans-1B6AC6.svg?style=plastic&logo=apache-netbeans-ide&logoColor=white)
-
-## My Stats
-
-#### GitHub Profile Insights
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavin-t&label=Profile%20views&color=0e75b6&style=flat" alt="kavin-t" /> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sengathir24&show_icons=true&locale=en&layout=compact" alt="Sengathir24" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sengathir24&show_icons=true&locale=en" alt="Sengathir24" /></p>
-
-#### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kavin-T&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Contact  
-
-<p align="left">
-<a href="https://www.linkedin.com/in/sengathirsoorian-e-t-8932161b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sengathirsoorian E T" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Sengathir24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
-  <a href="mailto:sengathirsoorian@gmail.com">
-  <img align="left" alt="GMail" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sengathirsoorian-e-t-8932161b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sengathirsoorian@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Sengathir24"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/Sengathir24/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
-
 
 ---
 
-<a href="http://commonmark.org">
-  <img align="right" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" />
-</a>
+## 💡 About Me  
+
+Hi there! 👋 I'm **Sengathirsoorian**, an enthusiastic developer passionate about building impactful software through **Web Development**, **AI/ML**, and **Smart Systems**.  
+I love transforming real-world problems into elegant digital solutions and constantly explore new technologies through **hands-on projects**, **hackathons**, and **open-source contributions**.  
+
+- 🌱 Currently exploring: **MERN Stack**, **Deep Learning**, and **Predictive Analytics**  
+- 💬 Let’s talk about: **Data Science, Machine Learning, Web Apps, and IoT Solutions**  
+- 👯 Open to collaborate on: **AI Projects**, **Open-Source Contributions**, and **Smart Tech Innovations**  
+- 📫 Reach me at: **sengathirsoorian@gmail.com**  
+- ⚡ Fun fact: I love solving DSA challenges & exploring creative UI designs!
+
+---
+
+## 🧠 Skills & Technologies  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+---
+
+## 🧩 Projects  
+
+### 🏛️ CASFOS Grievance Redressal System  
+A full-stack MERN-based platform developed for **CASFOS** to streamline and digitize complaint management processes. It integrates **JWT authentication**, **role-based access control**, **REST APIs**, and **PDF report generation**. The system improves transparency and operational efficiency, serving over 50+ government officials.  
+**Tech:** MongoDB · Express.js · React.js · Node.js · PDFKit  
+📎 [GitHub Repository](https://github.com/Kavin-T/casfos-grievance-system)
+
+---
+
+### 🤖 AI-Powered Welding Defect Detection  
+An AI-driven industrial inspection solution using **YOLOv8**, **PyTorch**, and **OpenCV** for detecting surface anomalies like cracks and porosity in welding images. Implemented preprocessing pipelines, model fine-tuning, and real-time inference for high precision in quality control.  
+**Tech:** Python · YOLOv8 · PyTorch · OpenCV · NumPy  
+📎 [GitHub Repository](https://github.com/Sengathir24/Ideathon_team_BATMEN)
+
+---
+
+### 🧓 Elder Safety System  
+A computer vision–based system built to monitor elderly individuals and detect critical events such as **falls**, **fire hazards**, and **unauthorized access** in real time. Integrated **MediaPipe**, **TensorFlow Lite**, and **Twilio API** for alerts and recognition.  
+**Tech:** Python · OpenCV · MediaPipe · TensorFlow Lite · Twilio API  
+📎 [GitHub Repository](https://github.com/Sengathir24/Elder-Security-System-with-FaceRecognition-Fire_detection-and-Fall_recognition/tree/main)
+
+---
+
+## 📊 GitHub Insights  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sengathir24&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sengathir24&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sengathir24&theme=radical&margin-w=10&no-frame=true&row=1" alt="Trophies" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sengathirsoorian-e-t-8932161b4/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/></a>
+  <a href="mailto:sengathirsoorian@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48"/></a>
+  <a href="https://leetcode.com/Sengathir24"><img src="https://skillicons.dev/icons?i=leetcode" width="48" height="48"/></a>
+  <a href="https://github.com/Sengathir24"><img src="https://skillicons.dev/icons?i=github" width="48" height="48"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sengathir24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <i>“Code is like humor — when you have to explain it, it’s bad.” 😄</i>
+</p>
+
+---
+
+<p align="right">
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Markdown Badge"/>
+</p>
